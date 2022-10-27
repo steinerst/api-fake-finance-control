@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "email": "diogo@gmail.com",
+      "password": "$2a$10$A9SH9g2CaTUEEuzZ4bh8FeYWHAOD3s4YiZzB/ld7ds8QBEgJ9HkI2",
+      "name": "Steiner",
+      "id": 2
+    }
+  ],
+  "transactions": [
+    {
+      "description": "Manutenção Projeto",
+      "type": "Entrada",
+      "value": "390000",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "description": "Compra Carro",
+      "type": "Saída",
+      "value": "160000",
+      "userId": 2,
+      "id": 2
+    }
+  ]
+}
